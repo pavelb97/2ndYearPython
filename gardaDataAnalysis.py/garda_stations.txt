@@ -1,0 +1,563 @@
+Abbeyfeale	 Limerick Division	19
+Abbeyleix	 Laois/Offaly Division	13
+Adare	 Limerick Division	4
+Aglish	 Waterford Division	3
+Ahascragh	 Galway Division	10
+Ailt an Chorrain	 Donegal Division	4
+An Bun Beag	 Donegal Division	11
+An Charraig	 Donegal Division	2
+An Cheathru Rua	 Galway Division	11
+An Clochan Liath	 Donegal Division	20
+An Coirean	 Kerry Division	9
+An Craoslach	 Donegal Division	1
+An F�l Carrach	 Donegal Division	5
+An Maim	 Galway Division	6
+An Rinn	 Waterford Division	1
+An Spideal	 Galway Division	1
+Anglesea Street	 Cork City Division	219
+Annascaul	 Kerry Division	0
+Aran Mor	 Galway Division	33
+Ard An R�tha	 Donegal Division	5
+Ardee	 Louth Division	26
+Ardfert	 Kerry Division	10
+Ardfinnan	 Tipperary Division	3
+Ardmore	 Waterford Division	3
+Ardnacrusha	 Limerick Division	17
+Ardrahan	 Galway Division	2
+Arklow	 Wicklow Division	70
+Arles	 Laois/Offaly Division	2
+Arva	 Cavan/Monaghan Division	3
+Ashbourne	 Meath Division	56
+Ashford	 Wicklow Division	33
+Askeaton	 Limerick Division	9
+Athea	 Limerick Division	0
+Athenry	 Galway Division	12
+Athleague	 Roscommon/Longford Division	1
+Athlone	 Westmeath Division	98
+Athy	 Kildare Division	90
+Aughrim	 Wicklow Division	6
+Avoca	 Wicklow Division	11
+Baile Atha Bui	 Meath Division	16
+Baile an Fheirt�araigh	 Kerry Division	1
+Baile Bhuirne	 Cork West Division	0
+Bailieboro	 Cavan/Monaghan Division	26
+Balbriggan	 D.M.R. Northern Division	104
+Balla	 Mayo Division	3
+Ballaghderreen	 Roscommon/Longford Division	16
+Ballina	 Mayo Division	57
+Ballinagh	 Cavan/Monaghan Division	8
+Ballinamore	 Sligo/Leitrim Division	5
+Ballinasloe	 Galway Division	59
+Ballincollig	 Cork City Division	39
+Ballindine	 Mayo Division	1
+Ballineen	 Cork West Division	4
+Ballingarry	 Limerick Division	1
+Ballingarry North	 Tipperary Division	1
+Ballingarry South	 Tipperary Division	4
+Ballinhassig	 Cork West Division	15
+Ballinlough	 Roscommon/Longford Division	3
+Ballinrobe	 Mayo Division	23
+Ballintra	 Donegal Division	1
+Ballivor	 Meath Division	7
+Ballon	 Kilkenny/Carlow Division	4
+Ballybay	 Cavan/Monaghan Division	13
+Ballybofey	 Donegal Division	44
+Ballybunion	 Kerry Division	12
+Ballyconnell	 Cavan/Monaghan Division	24
+Ballycotton	 Cork North Division	1
+Ballycroy	 Mayo Division	1
+Ballycullane	 Wexford Division	5
+Ballydehob	 Cork West Division	4
+Ballydesmond	 Cork West Division	0
+Ballyduff	 Kerry Division	8
+Ballyfermot	 D.M.R. Western Division	69
+Ballygar	 Galway Division	1
+Ballyhale	 Kilkenny/Carlow Division	2
+Ballyhaunis	 Mayo Division	19
+Ballyheigue	 Kerry Division	6
+Ballyjamesduff	 Cavan/Monaghan Division	25
+Ballylanders	 Limerick Division	2
+Ballylinan	 Laois/Offaly Division	11
+Ballymacarberry	 Waterford Division	2
+Ballymahon	 Roscommon/Longford Division	15
+Ballymore	 Westmeath Division	1
+Ballymote	 Sligo/Leitrim Division	12
+Ballymun	 D.M.R. Northern Division	159
+Ballynacargy	 Westmeath Division	3
+Ballyneety	 Limerick Division	18
+Ballynoe	 Cork North Division	4
+Ballyporeen	 Tipperary Division	2
+Ballyshannon	 Donegal Division	17
+Ballyvaughan	 Clare Division	3
+Baltimore	 Cork West Division	3
+Baltinglass	 Wicklow Division	26
+Banagher	 Laois/Offaly Division	4
+Bandon	 Cork West Division	44
+Bangor Erris	 Mayo Division	2
+Bansha	 Tipperary Division	4
+Bantry	 Cork West Division	16
+Barnaderg	 Galway Division	3
+Barraduff	 Kerry Division	0
+Beal an Mhuirthead	 Mayo Division	18
+Beal Atha an Ghaorthaidh	 Cork West Division	3
+Belturbet	 Cavan/Monaghan Division	15
+Bennettsbridge	 Kilkenny/Carlow Division	0
+Birr	 Laois/Offaly Division	35
+Bishopstown	 Cork City Division	31
+Blacklion	 Cavan/Monaghan Division	0
+Blackrock Co Cork	 Cork North Division	49
+Blackrock Co Dublin	 D.M.R. Southern Division	68
+Blackrock Co Louth	 Louth Division	7
+Blackwater	 Wexford Division	6
+Blanchardstown	 D.M.R. Western Division	204
+Blarney	 Cork City Division	34
+Blessington	 Wicklow Division	19
+Boherbue	 Cork West Division	2
+Bonniconlon	 Mayo Division	5
+Borris	 Kilkenny/Carlow Division	7
+Borris-In-Ossory	 Laois/Offaly Division	4
+Borrisokane	 Tipperary Division	2
+Borrisoleigh	 Tipperary Division	9
+Bothar Na Tra	 Galway Division	51
+Boyle	 Roscommon/Longford Division	16
+Bray	 Wicklow Division	127
+Bridewell Cork	 Cork City Division	169
+Bridewell Dublin	 D.M.R. North Central Division	132
+Bruff	 Limerick Division	5
+Bruree	 Limerick Division	3
+Bunclody	 Wexford Division	9
+Buncrana	 Donegal Division	61
+Bundoran	 Donegal Division	36
+Burnfoot	 Donegal Division	12
+Buttevant	 Cork North Division	21
+Cabinteely	 D.M.R. Eastern Division	74
+Cabra	 D.M.R. Western Division	38
+Caherciveen	 Kerry Division	21
+Caherconlish	 Limerick Division	5
+Cahir	 Tipperary Division	17
+Callan	 Kilkenny/Carlow Division	15
+Campile	 Wexford Division	9
+Cappamore	 Limerick Division	6
+Cappawhite	 Tipperary Division	5
+Cappoquin	 Waterford Division	13
+Carbury	 Kildare Division	9
+Carlingford	 Louth Division	15
+Carlow	 Kilkenny/Carlow Division	105
+Carna	 Galway Division	2
+Carndonagh	 Donegal Division	27
+Carnew	 Wicklow Division	9
+Carraig Airt	 Donegal Division	8
+Carrickbyrne	 Wexford Division	9
+Carrickmacross	 Cavan/Monaghan Division	48
+Carrick-on-Bannow	 Wexford Division	5
+Carrick-On-Shannon	 Sligo/Leitrim Division	42
+Carrick-On-Suir	 Tipperary Division	31
+Carrigaline	 Cork City Division	28
+Carrigallen	 Sligo/Leitrim Division	1
+Carrigans	 Donegal Division	6
+Carrigtwohill	 Cork North Division	15
+Cashel	 Tipperary Division	30
+Castlebar	 Mayo Division	91
+Castlebellingham	 Louth Division	13
+Castleblayney	 Cavan/Monaghan Division	43
+Castlebridge	 Wexford Division	11
+Castlecomer	 Kilkenny/Carlow Division	20
+Castleconnell	 Limerick Division	12
+Castledermot	 Kildare Division	24
+Castlefin	 Donegal Division	11
+Castlegregory	 Kerry Division	8
+Castleisland	 Kerry Division	26
+Castlemaine	 Kerry Division	5
+Castlepollard	 Westmeath Division	1
+Castlerea	 Roscommon/Longford Division	125
+Castletownbere	 Cork West Division	11
+Castletownroche	 Cork North Division	6
+Cavan	 Cavan/Monaghan Division	140
+Celbridge	 Kildare Division	57
+Charlestown	 Mayo Division	8
+Charleville	 Cork North Division	24
+Cill Ronain	 Galway Division	5
+Clane	 Kildare Division	29
+Clara	 Laois/Offaly Division	19
+Claremorris	 Mayo Division	23
+Clifden	 Galway Division	12
+Cloch na Ron	 Galway Division	1
+Cloghan	 Laois/Offaly Division	9
+Clogheen	 Tipperary Division	3
+Clogher	 Donegal Division	0
+Clogherhead	 Louth Division	5
+Clonakilty	 Cork West Division	44
+Clonark	 Roscommon/Longford Division	1
+Clonaslee	 Laois/Offaly Division	1
+Clonbologue	 Laois/Offaly Division	5
+Clondalkin	 D.M.R. Western Division	137
+Clones	 Cavan/Monaghan Division	22
+Clonmany	 Donegal Division	13
+Clonmel	 Tipperary Division	107
+Clonroche	 Wexford Division	5
+Clontarf	 D.M.R. Northern Division	69
+Cloughjordan	 Tipperary Division	0
+Cloyne	 Cork North Division	1
+Coachford	 Cork West Division	10
+Cobh	 Cork North Division	48
+Collon	 Louth Division	3
+Collooney	 Sligo/Leitrim Division	14
+Cong	 Mayo Division	2
+Convoy	 Donegal Division	18
+Coolaney	 Sligo/Leitrim Division	3
+Coolock	 D.M.R. Northern Division	189
+Cootehill	 Cavan/Monaghan Division	13
+Corofin	 Clare Division	6
+Corofin	 Galway Division	3
+Courtown Harbour	 Wexford Division	23
+Craughwell	 Galway Division	2
+Creggs	 Galway Division	2
+Crookstown	 Cork West Division	39
+Croom	 Limerick Division	15
+Crosshaven	 Cork City Division	10
+Crossmolina	 Mayo Division	6
+Crumlin	 D.M.R. Southern Division	89
+Crusheen	 Clare Division	2
+Daingean	 Laois/Offaly Division	7
+Delvin	 Westmeath Division	3
+Dingle	 Kerry Division	19
+Dolla	 Tipperary Division	0
+Donegal Town	 Donegal Division	30
+Doneraile	 Cork North Division	1
+Donnybrook	 D.M.R. South Central Division	57
+Douglas	 Cork City Division	61
+Dowra	 Cavan/Monaghan Division	0
+Drimoleague	 Cork West Division	1
+Drinagh	 Cork West Division	1
+Drogheda	 Louth Division	200
+Drumad	 Louth Division	6
+Drumcollogher	 Limerick Division	8
+Drumlish	 Roscommon/Longford Division	13
+Drumshambo	 Sligo/Leitrim Division	9
+Dublin Airport	 D.M.R. Northern Division	9
+Duleek	 Meath Division	22
+Dun Fionnachaid	 Donegal Division	7
+Dun Laoghaire	 D.M.R. Eastern Division	146
+Dunboyne	 Meath Division	36
+Duncannon	 Wexford Division	6
+Dundalk	 Louth Division	203
+Dundrum	 D.M.R. Eastern Division	134
+Dungarvan	 Waterford Division	83
+Dunlavin	 Wicklow Division	5
+Dunleer	 Louth Division	21
+Dunmanway	 Cork West Division	18
+Dunmore East	 Waterford Division	6
+Dunmore	 Galway Division	5
+Dunshaughlin	 Meath Division	25
+Durrow	 Laois/Offaly Division	4
+Durrus	 Cork West Division	3
+Edenderry	 Laois/Offaly Division	42
+Edgeworthstown	 Roscommon/Longford Division	36
+Elphin	 Roscommon/Longford Division	1
+Emly	 Tipperary Division	1
+Emyvale	 Cavan/Monaghan Division	6
+Enfield	 Meath Division	7
+Ennis	 Clare Division	149
+Enniscorthy	 Wexford Division	86
+Enniscrone	 Sligo/Leitrim Division	18
+Enniskerry	 Wicklow Division	4
+Ennistymon	 Clare Division	27
+Eyrecourt	 Galway Division	3
+Farranfore	 Kerry Division	2
+Ferbane	 Laois/Offaly Division	11
+Fermoy	 Cork North Division	29
+Ferns	 Wexford Division	12
+Ferrybank	 Waterford Division	17
+Fethard	 Tipperary Division	6
+Finglas	 D.M.R. Western Division	110
+Fitzgibbon Street	 D.M.R. North Central Division	158
+Foxford	 Mayo Division	5
+Foynes	 Limerick Division	12
+Frenchpark	 Roscommon/Longford Division	8
+Freshford	 Kilkenny/Carlow Division	5
+Gaillimh	 Galway Division	292
+Garristown	 D.M.R. Northern Division	10
+Glanmire	 Cork City Division	34
+Glantaine	 Cork North Division	11
+Glasson	Westmeath	3
+Gleann na Muaidhe	 Mayo Division	0
+Glenamaddy	 Galway Division	7
+Glenbeigh	 Kerry Division	5
+Glengarriff	 Cork West Division	2
+Glenmore	 Kilkenny/Carlow Division	4
+Glin	 Limerick Division	0
+Glynn	 Wexford Division	0
+Gob an Choire	 Mayo Division	3
+Golden	 Tipperary Division	1
+Goresbridge	 Kilkenny/Carlow Division	1
+Gorey	 Wexford Division	54
+Gort	 Galway Division	23
+Graiguenamanagh	 Kilkenny/Carlow Division	4
+Granard	 Roscommon/Longford Division	26
+Grange	 Sligo/Leitrim Division	4
+Greystones	 Wicklow Division	46
+Gurranabraher	 Cork City Division	113
+Gurteen	 Sligo/Leitrim Division	4
+Hackballscross	 Louth Division	1
+Hacketstown	 Kilkenny/Carlow Division	4
+Headford	 Galway Division	18
+Henry Street	 Limerick Division	238
+Holycross	 Tipperary Division	6
+Hospital Co Limerick	 Limerick Division	6
+Howth	 D.M.R. Northern Division	25
+Indreabhan	 Galway Division	4
+Innishannon	 Cork West Division	3
+Irishtown	 D.M.R. South Central Division	40
+Kanturk	 Cork West Division	24
+Keadue	 Roscommon/Longford Division	0
+Kealkil	 Cork West Division	3
+Keel	 Mayo Division	4
+Kells Ceanannus Mor	 Meath Division	43
+Kenagh	 Roscommon/Longford Division	4
+Kenmare	 Kerry Division	10
+Kerrykeel	 Donegal Division	7
+Kevin Street	 D.M.R. South Central Division	230
+Kilbeggan	 Westmeath Division	7
+Kilbrittain	 Cork West Division	4
+Kilcock	 Kildare Division	14
+Kilconnell	 Galway Division	3
+Kilcormac	 Laois/Offaly Division	3
+Kilcullen	 Kildare Division	17
+Kildare	 Kildare Division	49
+Kildorrery	 Cork North Division	5
+Kildysart	 Clare Division	2
+Kilkee	 Clare Division	19
+Kilkelly	 Mayo Division	4
+Kilkenny	 Kilkenny/Carlow Division	257
+Kill Co Waterford	 Waterford Division	11
+Killala	 Mayo Division	9
+Killaloe	 Clare Division	21
+Killarney	 Kerry Division	117
+Killeagh	 Cork North Division	4
+Killenaule	 Tipperary Division	10
+Killeshandra	 Cavan/Monaghan Division	3
+Killimor	 Galway Division	3
+Killorglin	 Kerry Division	26
+Killucan	 Westmeath Division	7
+Kilmacow	 Kilkenny/Carlow Division	3
+Kilmacrennan	 Donegal Division	9
+Kilmacthomas	 Waterford Division	9
+Kilmaine	 Mayo Division	3
+Kilmainham	 D.M.R. South Central Division	176
+Kilmallock	 Limerick Division	20
+Kilmeaden	 Waterford Division	3
+Kilmoganny	 Kilkenny/Carlow Division	0
+Kilmore Quay	 Wexford Division	17
+Kilnaleck	 Cavan/Monaghan Division	17
+Kilrickle	 Galway Division	5
+Kilrush	 Clare Division	37
+Kilsheelan	 Tipperary Division	1
+Kiltimagh	 Mayo Division	12
+Kiltormer	 Galway Division	2
+Kilworth	 Cork North Division	0
+Kingscourt	 Cavan/Monaghan Division	14
+Kinlough	 Sligo/Leitrim Division	7
+Kinnegad	 Westmeath Division	22
+Kinnitty	 Laois/Offaly Division	2
+Kinsale	 Cork West Division	48
+Kinvara	 Galway Division	1
+Knock	 Mayo Division	2
+Knocknagoshel	 Kerry Division	6
+Lanesboro	 Roscommon/Longford Division	12
+Laytown	 Meath Division	73
+Leach Seoirse	 Galway Division	17
+Leamybrien	 Waterford Division	4
+Leitir Mor	 Galway Division	2
+Leixlip	 Kildare Division	33
+Letterfrack	 Galway Division	10
+Letterkenny	 Donegal Division	220
+Lifford	 Donegal Division	11
+Liscarroll	 Cork North Division	2
+Lisdoonvarna	 Clare Division	21
+Lismore	 Waterford Division	3
+Lissycasey	 Clare Division	4
+Listowel	 Kerry Division	35
+Littleton	 Tipperary Division	5
+Lixnaw	 Kerry Division	3
+Longford	 Roscommon/Longford Division	77
+Longwood	 Meath Division	10
+Lorrha	 Tipperary Division	1
+Loughrea	 Galway Division	51
+Louisburgh	 Mayo Division	4
+Louth	 Louth Division	8
+Lucan	 D.M.R. Western Division	78
+Lusk	 D.M.R. Northern Division	48
+Macroom	 Cork West Division	30
+Maigh Cuilinn	 Galway Division	0
+Malahide	 D.M.R. Northern Division	53
+Mallow	 Cork North Division	86
+Manorhamilton	 Sligo/Leitrim Division	16
+Mayfield	 Cork City Division	53
+Maynooth	 Kildare Division	49
+Mayorstone Park	 Limerick Division	118
+Midleton	 Cork North Division	58
+Milford Co Cork	 Cork North Division	3
+Milford	 Donegal Division	26
+Millstreet Co. Cork	 Cork West Division	11
+Milltown	 Galway Division	0
+Miltown Malbay	 Clare Division	13
+Mitchelstown	 Cork North Division	25
+Moate	 Westmeath Division	5
+Mohill	 Sligo/Leitrim Division	10
+Monaghan	 Cavan/Monaghan Division	89
+Monasterevin	 Kildare Division	21
+Moneygall	 Tipperary Division	0
+Monivea	 Galway Division	8
+Mooncoin	 Kilkenny/Carlow Division	4
+Mountbellew	 Galway Division	10
+Mountcharles	 Donegal Division	2
+Mountjoy	 D.M.R. North Central Division	212
+Mountmellick	 Laois/Offaly Division	61
+Mountrath	 Laois/Offaly Division	18
+Moville	 Donegal Division	15
+Moylough	 Galway Division	4
+Moyne	 Tipperary Division	1
+Muff	 Donegal Division	9
+Muine Bheag	 Kilkenny/Carlow Division	15
+Mullagh	 Cavan/Monaghan Division	9
+Mullinahone	 Tipperary Division	4
+Mullinavat	 Kilkenny/Carlow Division	2
+Mullingar	 Westmeath Division	145
+Multyfarnham	 Westmeath Division	2
+Murroe	 Limerick Division	5
+Myshall	 Kilkenny/Carlow Division	0
+Na Cealla Beaga	 Donegal Division	16
+Na Gleannta	 Donegal Division	2
+Naas	 Kildare Division	135
+Navan	 Meath Division	124
+Nenagh	 Tipperary Division	52
+New Ross	 Wexford Division	61
+Newbridge	 Kildare Division	99
+Newcastle West	 Limerick Division	33
+Newmarket	 Cork West Division	5
+Newmarket on Fergus	 Clare Division	10
+Newport Co Mayo	 Mayo Division	2
+Newport Co Tipperary	 Tipperary Division	6
+Newtowncunningham	 Donegal Division	19
+Newtownmountkennedy	 Wicklow Division	18
+Nobber	 Meath Division	11
+Oldcastle	 Meath Division	10
+Omeath	 Louth Division	5
+Oola	 Limerick Division	1
+Oughterard	 Galway Division	6
+Oulart	 Wexford Division	12
+Oylegate	 Wexford Division	1
+Pallasgreen	 Limerick Division	2
+Pallaskenry	 Limerick Division	4
+Partry	 Mayo Division	1
+Passage East	 Waterford Division	1
+Passage West	 Cork City Division	18
+Patrickswell	 Limerick Division	11
+Pearse Street	 D.M.R. South Central Division	635
+Pettigo	 Donegal Division	3
+Piltown	 Kilkenny/Carlow Division	7
+Portarlington	 Laois/Offaly Division	43
+Portlaoise	 Laois/Offaly Division	184
+Portlaw	 Waterford Division	12
+Portmagee	 Kerry Division	5
+Portroe	 Tipperary Division	8
+Portumna	 Galway Division	16
+Raheny	 D.M.R. Northern Division	44
+Ramelton	 Donegal Division	12
+Raphoe	 Donegal Division	32
+Rathangan	 Kildare Division	13
+Rathcoole	 D.M.R. Western Division	41
+Rathcormac Co Cork	 Cork North Division	10
+Rathdowney	 Laois/Offaly Division	9
+Rathdrum	 Wicklow Division	18
+Rathfarnham	 D.M.R. Southern Division	113
+Rathgormack	 Waterford Division	2
+Rathkeale	 Limerick Division	16
+Rathmines	 D.M.R. Southern Division	73
+Rathmore Co Kerry	 Kerry Division	5
+Rathmullen	 Donegal Division	7
+Rathvilly	 Kilkenny/Carlow Division	1
+Rhode	 Laois/Offaly Division	7
+Riverstown	 Sligo/Leitrim Division	2
+Robertstown	 Kildare Division	19
+Rochfortbridge	 Westmeath Division	3
+Rockcorry	 Cavan/Monaghan Division	2
+Ronanstown	 D.M.R. Western Division	169
+Roosky	 Roscommon/Longford Division	3
+Ros Muc	 Galway Division	4
+Roscommon	 Roscommon/Longford Division	44
+Roscrea	 Tipperary Division	25
+Rosscarbery	 Cork West Division	6
+Rosses Point	 Sligo/Leitrim Division	0
+Rosslare Harbour	 Wexford Division	14
+Rosslare Strand	 Wexford Division	7
+Roundwood	 Wicklow Division	10
+Roxboro Road	 Limerick Division	204
+Santry	 D.M.R. Northern Division	125
+Scariff	 Clare Division	8
+Schull	 Cork West Division	11
+Scotstown	 Cavan/Monaghan Division	9
+Shankill	 D.M.R. Eastern Division	83
+Shannon	 Clare Division	33
+Shercock	 Cavan/Monaghan Division	7
+Shevry	 Tipperary Division	0
+Shillelagh	 Wicklow Division	2
+Shinrone	 Laois/Offaly Division	13
+Shrule	 Mayo Division	7
+Sixmilebridge	 Clare Division	7
+Skerries	 D.M.R. Northern Division	28
+Skibbereen	 Cork West Division	39
+Skreen	 Sligo/Leitrim Division	1
+Slane	 Meath Division	14
+Sligo	 Sligo/Leitrim Division	122
+Smear	 Roscommon/Longford Division	1
+Sneem	 Kerry Division	3
+Sraith Salach	 Galway Division	0
+Stoneyford	 Kilkenny/Carlow Division	5
+Store Street	 D.M.R. North Central Division	435
+Stradbally Co Laois	 Laois/Offaly Division	9
+Strokestown	 Roscommon/Longford Division	6
+Stuake	 Cork West Division	8
+Summerhill	 Meath Division	5
+Sundrive Road	 D.M.R. Southern Division	100
+Swanlinbar	 Cavan/Monaghan Division	2
+Swinford	 Mayo Division	11
+Swords	 D.M.R. Northern Division	169
+Taghmon	 Wexford Division	8
+Tallaght	 D.M.R. Southern Division	347
+Tallow	 Waterford Division	10
+Tarbert	 Kerry Division	0
+Tarelton	 Cork West Division	3
+Taughmaconnell	 Roscommon/Longford Division	0
+Templederry	 Tipperary Division	0
+Templemore	 Tipperary Division	12
+Templetuohy	 Tipperary Division	0
+Terenure	 D.M.R. Southern Division	54
+Thomastown	 Kilkenny/Carlow Division	8
+Thurles	 Tipperary Division	66
+Timoleague	 Cork West Division	6
+Tinahely	 Wicklow Division	9
+Tipperary	 Tipperary Division	38
+Togher	 Cork City Division	53
+Toomevara	 Tipperary Division	0
+Tralee	 Kerry Division	140
+Tramore	 Waterford Division	64
+Trim	 Meath Division	38
+Tuam	 Galway Division	73
+Tubbercurry	 Sligo/Leitrim Division	34
+Tulla	 Clare Division	5
+Tullamore	 Laois/Offaly Division	81
+Tullow	 Kilkenny/Carlow Division	20
+Tulsk	 Roscommon/Longford Division	0
+Urlingford	 Kilkenny/Carlow Division	13
+Virginia	 Cavan/Monaghan Division	16
+Watercourse Road	 Cork City Division	176
+Waterford	 Waterford Division	342
+Watergrasshill	 Cork North Division	4
+Westport	 Mayo Division	51
+Wexford	 Wexford Division	93
+Whitegate	 Cork North Division	2
+Wicklow	 Wicklow Division	43
+Williamstown	 Galway Division	3
+Woodford	 Galway Division	3
+Youghal	 Cork North Division	32
